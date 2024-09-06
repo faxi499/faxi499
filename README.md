@@ -8,7 +8,7 @@
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Welcome+to+my+GitHub+profile!;I'm+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems.;Let's+code+and+shape+the+world+together!)](https://github.com/faxi499)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Welcome+to+my+GitHub+profile!;I'm+TANVIR+Sheikh;a+passionate+programmer+who+loves+solving+problems.;Let's+code+and+shape+the+world+together!)](https://github.com/faxi499)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=faxi499&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/faxi499)
 
