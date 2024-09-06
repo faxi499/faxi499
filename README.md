@@ -4,16 +4,16 @@
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShafiqSadat&theme=onedark)](https://github.com/ShafiqSadat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=faxi499&theme=onedark)](https://github.com/faxi499)
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Welcome+to+my+GitHub+profile!;I'm+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems.;Let's+code+and+shape+the+world+together!)](https://github.com/ShafiqSadat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Welcome+to+my+GitHub+profile!;I'm+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems.;Let's+code+and+shape+the+world+together!)](https://github.com/faxi499)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=faxi499&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/faxi499)
 
 <!--
-**ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**faxi499/faxi499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsadat&layout=donut&theme=dark)](https://github.com/ShafiqSadat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxi499&layout=donut&theme=dark)](https://github.com/faxi499)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafiqSadat&theme=github_dark)](https://github.com/ShafiqSadat)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxi499&theme=github_dark)](https://github.com/faxi499)
 
 **Follow me**  👉 
-[![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)](https://github.com/ShafiqSadat)
+[![Github](https://img.shields.io/github/followers/faxi499?label=Follow&style=social)](https://github.com/faxi499)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShafiqSadat&label=Profile%20views&color=0e75b6&style=flat" alt="ShafiqSadat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faxi499&label=Profile%20views&color=0e75b6&style=flat" alt="faxi499" /> </p>
